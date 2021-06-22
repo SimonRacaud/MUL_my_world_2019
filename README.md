@@ -1,4 +1,4 @@
-# MUL_my_world_2019
+# My_world 2019
 First-year project.
 
 An isometric world designer written in CSFML (low level graphical library)
